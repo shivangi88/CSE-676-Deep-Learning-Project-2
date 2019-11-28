@@ -3,6 +3,9 @@
 ## Comparison of AutoEncoder, Denoising AutoEncoder and Denoising AutoEncoder with Recurrent skip connections
 
 ## Prerequisite:
-### Create folder called 'train' and 'test' in folder called 'sample_data' in Google Colab, to import train and test images in respective folders.
+### Create folder called 'train'
+### Go to Google Colab-> Open left pane-> Files tab-> sample_data folder-> Right click to create new folder named 'train' 
 
+### Create folder called 'train'
+### Go to Google Colab-> Open left pane-> Files tab-> sample_data folder-> Right click to create new folder named 'test'
 ### Then run the notebook for training the models and getting the results.
