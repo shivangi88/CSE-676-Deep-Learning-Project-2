@@ -1,6 +1,6 @@
 # CSE-676-Deep-Learning-Project-2
 
-## Comparison of AutoEncoder, Denoising AutoEncoder and Denoising AutoEncoder with Recurrent skip connections
+## Comparison of De-Noised Images generated using AutoEncoder, Denoising AutoEncoder and Denoising AutoEncoder with Recurrent skip connections
 
 ## Prerequisite:
 ### Create folder called 'train'
